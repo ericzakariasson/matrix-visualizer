@@ -1,1 +1,1 @@
-![Rotating matrix clockwise](https://imgur.com/4Ukugcc)
+![Rotating matrix clockwise](https://i.imgur.com/4Ukugcc.gif)
